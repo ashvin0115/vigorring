@@ -4,10 +4,8 @@
   My area of expertise is full stack (Angular, React, java and NodeJS, python...) technology, and I am also versed in Solidity and RUST coding.
   I have also experience developing hybrid apps for various projects including online payment solutions for well-known global companies. </br>
 🌱  I'm striving to be a complete business software solution provider for blockchain and math.
-  Since 2018, I have intelligently applied my technical, administrative, and customer service expertise to deliver continued business success to our clients.   </br><a href="https://findwrk.app/?utm_source=awesome-github-profile-readme"><img src="img/v2.svg" alt="website"/></a> <img src="img/v1.svg" alt="Star Badge"/>
-
-
-</h1> <br>
+  Since 2018, I have intelligently applied my technical, administrative, and customer service expertise to deliver continued business success to our clients. </br></br><a href="https://findwrk.app/?utm_source=awesome-github-profile-readme"><img src="img/v2.svg" alt="website"/></a> <img src="img/v1.svg" alt="Star Badge"/>
+</h1>
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
